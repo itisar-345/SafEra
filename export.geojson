@@ -1,0 +1,1149 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-05T09:10:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553178707",
+        "access": "private",
+        "hoops": "4",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "basketball",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8285338,
+              19.0547411
+            ],
+            [
+              72.8284912,
+              19.0546104
+            ],
+            [
+              72.8287565,
+              19.054533
+            ],
+            [
+              72.8287991,
+              19.0546637
+            ],
+            [
+              72.8285338,
+              19.0547411
+            ]
+          ]
+        ]
+      },
+      "id": "way/553178707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/729980782",
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer;multi;cricket",
+        "surface": "dirt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8315539,
+              19.2178291
+            ],
+            [
+              72.831397,
+              19.2178265
+            ],
+            [
+              72.8313982,
+              19.2177631
+            ],
+            [
+              72.8315552,
+              19.2177658
+            ],
+            [
+              72.8315539,
+              19.2178291
+            ]
+          ]
+        ]
+      },
+      "id": "way/729980782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853277771",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "badminton",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9255158,
+              19.0360681
+            ],
+            [
+              72.9255074,
+              19.0359542
+            ],
+            [
+              72.9257428,
+              19.0359383
+            ],
+            [
+              72.925754,
+              19.0360522
+            ],
+            [
+              72.9255158,
+              19.0360681
+            ]
+          ]
+        ]
+      },
+      "id": "way/853277771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/908279295",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "volleyball",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9254839,
+              19.0349413
+            ],
+            [
+              72.9254785,
+              19.0347895
+            ],
+            [
+              72.9255953,
+              19.0347857
+            ],
+            [
+              72.9256007,
+              19.0349376
+            ],
+            [
+              72.9254839,
+              19.0349413
+            ]
+          ]
+        ]
+      },
+      "id": "way/908279295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1172335778",
+        "access": "private",
+        "leisure": "swimming_pool",
+        "length": "0",
+        "lit": "no",
+        "location": "outdoor",
+        "swimming_pool": "personal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8294378,
+              19.1864102
+            ],
+            [
+              72.8295417,
+              19.1864069
+            ],
+            [
+              72.8295486,
+              19.1865966
+            ],
+            [
+              72.8295299,
+              19.1866054
+            ],
+            [
+              72.8295213,
+              19.1866598
+            ],
+            [
+              72.8294949,
+              19.1866561
+            ],
+            [
+              72.8294762,
+              19.1866032
+            ],
+            [
+              72.8294448,
+              19.1866042
+            ],
+            [
+              72.8294378,
+              19.1864102
+            ]
+          ]
+        ]
+      },
+      "id": "way/1172335778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/72878021",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "no",
+        "maxheight": "default",
+        "name": "Gulmohar Cross Road Number 4",
+        "source": "local knowledge",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.832543,
+            19.1114711
+          ],
+          [
+            72.8330124,
+            19.111235
+          ],
+          [
+            72.833316,
+            19.1110742
+          ],
+          [
+            72.8339597,
+            19.1107599
+          ],
+          [
+            72.8341314,
+            19.1106738
+          ],
+          [
+            72.8342709,
+            19.1107954
+          ],
+          [
+            72.8344533,
+            19.1108664
+          ],
+          [
+            72.834861,
+            19.1109373
+          ],
+          [
+            72.8355744,
+            19.1110514
+          ],
+          [
+            72.8356576,
+            19.1110655
+          ],
+          [
+            72.8372477,
+            19.1113343
+          ],
+          [
+            72.8373789,
+            19.1113164
+          ]
+        ]
+      },
+      "id": "way/72878021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/72879992",
+        "highway": "residential",
+        "lit": "no",
+        "name": "Dayaneswar Road",
+        "oneway": "no",
+        "sidewalk": "both",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8371672,
+            19.1107615
+          ],
+          [
+            72.835522,
+            19.1104948
+          ],
+          [
+            72.8354469,
+            19.110484
+          ],
+          [
+            72.8350755,
+            19.1104
+          ],
+          [
+            72.8347966,
+            19.1104102
+          ],
+          [
+            72.8346188,
+            19.1104662
+          ],
+          [
+            72.8344747,
+            19.1105116
+          ],
+          [
+            72.8341314,
+            19.1106738
+          ]
+        ]
+      },
+      "id": "way/72879992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151205167",
+        "bridge": "yes",
+        "foot": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "lit": "no",
+        "name": "Chembur Station SkyWalk"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9008677,
+            19.0629209
+          ],
+          [
+            72.900584,
+            19.0630711
+          ],
+          [
+            72.9004603,
+            19.0631292
+          ],
+          [
+            72.9003444,
+            19.0631802
+          ],
+          [
+            72.9002857,
+            19.0632037
+          ],
+          [
+            72.8994578,
+            19.0635743
+          ],
+          [
+            72.8992584,
+            19.0636583
+          ],
+          [
+            72.8988013,
+            19.0638174
+          ]
+        ]
+      },
+      "id": "way/151205167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/212323273",
+        "highway": "residential",
+        "lit": "no",
+        "name": "RCS Road Number 6",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8336795,
+            19.2254701
+          ],
+          [
+            72.8335909,
+            19.2250411
+          ],
+          [
+            72.8335258,
+            19.2246666
+          ],
+          [
+            72.8334979,
+            19.2245043
+          ],
+          [
+            72.8334291,
+            19.2241011
+          ]
+        ]
+      },
+      "id": "way/212323273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314369892",
+        "bicycle": "yes",
+        "highway": "residential",
+        "lit": "no",
+        "motor_vehicle": "yes",
+        "name": "janta raod",
+        "surface": "concrete:lanes",
+        "width": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9075127,
+            19.0601236
+          ],
+          [
+            72.9075042,
+            19.0602041
+          ],
+          [
+            72.9075345,
+            19.0604865
+          ],
+          [
+            72.9075842,
+            19.0606691
+          ],
+          [
+            72.9076337,
+            19.0607472
+          ],
+          [
+            72.9078467,
+            19.0611239
+          ],
+          [
+            72.9079166,
+            19.0612489
+          ],
+          [
+            72.9079288,
+            19.0612808
+          ],
+          [
+            72.9079363,
+            19.0613034
+          ],
+          [
+            72.9079425,
+            19.0613239
+          ]
+        ]
+      },
+      "id": "way/314369892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/315405358",
+        "bicycle": "permissive",
+        "highway": "footway",
+        "horse": "permissive",
+        "lit": "no",
+        "surface": "paving_stones",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.905391,
+            19.066279
+          ],
+          [
+            72.9051026,
+            19.0657239
+          ]
+        ]
+      },
+      "id": "way/315405358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/322190197",
+        "bicycle": "no",
+        "highway": "footway",
+        "horse": "no",
+        "lit": "no",
+        "surface": "paved",
+        "width": "0.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8719641,
+            19.0747342
+          ],
+          [
+            72.8720291,
+            19.0745943
+          ],
+          [
+            72.8721377,
+            19.0743966
+          ],
+          [
+            72.8722785,
+            19.0741292
+          ],
+          [
+            72.8723495,
+            19.0739881
+          ],
+          [
+            72.8724427,
+            19.0738206
+          ],
+          [
+            72.872512,
+            19.0736736
+          ],
+          [
+            72.8726221,
+            19.0734654
+          ],
+          [
+            72.8727616,
+            19.0731902
+          ],
+          [
+            72.8728532,
+            19.0729973
+          ],
+          [
+            72.8728594,
+            19.0729442
+          ],
+          [
+            72.8728763,
+            19.0729027
+          ],
+          [
+            72.872911,
+            19.0728772
+          ],
+          [
+            72.8729441,
+            19.0728466
+          ],
+          [
+            72.8729677,
+            19.0728358
+          ]
+        ]
+      },
+      "id": "way/322190197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464072642",
+        "highway": "footway",
+        "lit": "no",
+        "name": "Shivalik maidan",
+        "surface": "ground"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8457794,
+            19.0697998
+          ],
+          [
+            72.8456682,
+            19.0698662
+          ],
+          [
+            72.8454633,
+            19.0699875
+          ],
+          [
+            72.8453788,
+            19.0700046
+          ],
+          [
+            72.8452736,
+            19.0702592
+          ],
+          [
+            72.845306,
+            19.0704456
+          ],
+          [
+            72.8453434,
+            19.0707466
+          ],
+          [
+            72.8453043,
+            19.0709304
+          ],
+          [
+            72.8452521,
+            19.0711165
+          ],
+          [
+            72.8452579,
+            19.0711892
+          ],
+          [
+            72.8453002,
+            19.0712818
+          ],
+          [
+            72.8453328,
+            19.0713181
+          ]
+        ]
+      },
+      "id": "way/464072642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464072643",
+        "bicycle": "no",
+        "highway": "footway",
+        "horse": "no",
+        "lit": "no",
+        "name": "Maratha club galli",
+        "surface": "ground"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8455137,
+            19.071583
+          ],
+          [
+            72.8454401,
+            19.0716737
+          ],
+          [
+            72.8454119,
+            19.0717357
+          ],
+          [
+            72.8453926,
+            19.0717775
+          ],
+          [
+            72.8453687,
+            19.071881
+          ],
+          [
+            72.845342,
+            19.0719456
+          ],
+          [
+            72.8453123,
+            19.0720241
+          ],
+          [
+            72.8452797,
+            19.0720985
+          ],
+          [
+            72.8453316,
+            19.0721658
+          ],
+          [
+            72.8453331,
+            19.0722206
+          ],
+          [
+            72.8453153,
+            19.0722879
+          ],
+          [
+            72.84529,
+            19.0723033
+          ],
+          [
+            72.8452986,
+            19.072336
+          ],
+          [
+            72.8452986,
+            19.0723963
+          ],
+          [
+            72.845263,
+            19.0724861
+          ],
+          [
+            72.8452333,
+            19.0725984
+          ],
+          [
+            72.8451843,
+            19.0726685
+          ],
+          [
+            72.8451724,
+            19.0726657
+          ],
+          [
+            72.8451517,
+            19.0726657
+          ]
+        ]
+      },
+      "id": "way/464072643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464426573",
+        "bicycle": "no",
+        "foot": "yes",
+        "highway": "footway",
+        "horse": "no",
+        "lit": "no",
+        "motor_vehicle": "no",
+        "name": "Bandstand",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8189285,
+            19.0449951
+          ],
+          [
+            72.8189929,
+            19.0451549
+          ]
+        ]
+      },
+      "id": "way/464426573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/486698656",
+        "highway": "footway",
+        "lit": "no",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8694909,
+            19.0537573
+          ],
+          [
+            72.8696679,
+            19.0534227
+          ]
+        ]
+      },
+      "id": "way/486698656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701038543",
+        "highway": "service",
+        "lit": "no",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8268471,
+            19.0696662
+          ],
+          [
+            72.8266686,
+            19.0695152
+          ],
+          [
+            72.8264514,
+            19.0693352
+          ],
+          [
+            72.8262931,
+            19.0692338
+          ],
+          [
+            72.826159,
+            19.0691933
+          ],
+          [
+            72.8260705,
+            19.0691831
+          ],
+          [
+            72.8259847,
+            19.0692364
+          ],
+          [
+            72.8259632,
+            19.0692921
+          ]
+        ]
+      },
+      "id": "way/701038543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/898358906",
+        "embankment": "yes",
+        "highway": "footway",
+        "lit": "no",
+        "name": "1997 ZHENG DONG SHIPWRECK",
+        "surface": "asphalt",
+        "width": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8225322,
+            19.0637364
+          ],
+          [
+            72.8222861,
+            19.0637722
+          ],
+          [
+            72.8222499,
+            19.063798
+          ],
+          [
+            72.8206359,
+            19.0640647
+          ],
+          [
+            72.8185697,
+            19.0644324
+          ],
+          [
+            72.8181831,
+            19.0645908
+          ],
+          [
+            72.8178663,
+            19.064651
+          ]
+        ]
+      },
+      "id": "way/898358906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1019730490",
+        "highway": "footway",
+        "lit": "no",
+        "smoothness": "intermediate",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8184244,
+            19.0420362
+          ],
+          [
+            72.8182951,
+            19.0419096
+          ],
+          [
+            72.8181621,
+            19.041863
+          ],
+          [
+            72.8182068,
+            19.0416983
+          ],
+          [
+            72.8183352,
+            19.0417156
+          ],
+          [
+            72.8183742,
+            19.0417937
+          ],
+          [
+            72.8186265,
+            19.0418717
+          ],
+          [
+            72.8188558,
+            19.0420104
+          ],
+          [
+            72.8189613,
+            19.0420018
+          ],
+          [
+            72.8199522,
+            19.0424252
+          ],
+          [
+            72.8203743,
+            19.0424774
+          ],
+          [
+            72.8207184,
+            19.0427255
+          ],
+          [
+            72.8214456,
+            19.0433607
+          ],
+          [
+            72.8218258,
+            19.0434314
+          ]
+        ]
+      },
+      "id": "way/1019730490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1158727446",
+        "highway": "footway",
+        "lit": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9316096,
+            19.1691727
+          ],
+          [
+            72.9316094,
+            19.1692083
+          ],
+          [
+            72.9316058,
+            19.1693056
+          ],
+          [
+            72.9316304,
+            19.1694337
+          ],
+          [
+            72.9316378,
+            19.1694728
+          ],
+          [
+            72.9316641,
+            19.1696264
+          ]
+        ]
+      },
+      "id": "way/1158727446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2317279161",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Chedda Nagar",
+        "operator": "BEST",
+        "public_transport": "platform",
+        "ref": "3861,",
+        "route_ref": "126,",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.904372,
+          19.0687175
+        ]
+      },
+      "id": "node/2317279161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2317279162",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Chedda Nagar",
+        "public_transport": "platform",
+        "ref": "3861,",
+        "route_ref": "126,",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9047598,
+          19.0693463
+        ]
+      },
+      "id": "node/2317279162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849543421",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name:en": "I E S High School",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8875641,
+          19.1285062
+        ]
+      },
+      "id": "node/4849543421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849552521",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name:en": "Milind Nagar",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8905647,
+          19.1262928
+        ]
+      },
+      "id": "node/4849552521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5470633020",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Ghatkopar Depot",
+        "operator": "BEST",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9197865,
+          19.0861675
+        ]
+      },
+      "id": "node/5470633020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5472603522",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8747521,
+          19.133983
+        ]
+      },
+      "id": "node/5472603522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10810264020",
+        "amenity": "shelter",
+        "bench": "yes",
+        "lit": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9374395,
+          19.1788129
+        ]
+      },
+      "id": "node/10810264020"
+    }
+  ]
+}
